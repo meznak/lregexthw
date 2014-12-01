@@ -1,0 +1,2 @@
+!data "/blog/article/1\n/blog/article/\n/blog/article/2"
+^/blog/article/[0-9]?$
